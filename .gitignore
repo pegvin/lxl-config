@@ -42,5 +42,6 @@ luac.out
 error.txt
 session.lua
 user_settings.lua
+.treeview_width.lua
 ws/
 
