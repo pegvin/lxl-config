@@ -39,8 +39,8 @@ config.plugins.fontpreview.default_text = { "The quick brown fox jumped over the
 ------------------------------- Fonts ----------------------------------------
 
 -- customize fonts:
-style.font = renderer.font.load(USERDIR .. "/fonts/VictorMono-Medium.ttf", 16 * SCALE)
-style.code_font = renderer.font.load(USERDIR .. "/fonts/VictorMono-Medium.ttf", 22 * SCALE)
+style.font = renderer.font.load(USERDIR .. "/fonts/CascadiaMono.ttf", 16 * SCALE)
+style.code_font = renderer.font.load(USERDIR .. "/fonts/CascadiaMono.ttf", 22 * SCALE)
 --
 -- DATADIR is the location of the installed Lite XL Lua code, default color
 -- schemes and fonts.
