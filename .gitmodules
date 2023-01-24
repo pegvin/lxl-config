@@ -1,0 +1,3 @@
+[submodule "libraries/widget"]
+	path = libraries/widget
+	url = https://github.com/lite-xl/lite-xl-widgets
