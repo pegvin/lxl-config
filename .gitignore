@@ -39,3 +39,8 @@ luac.out
 *.x86_64
 *.hex
 
+error.txt
+session.lua
+user_settings.lua
+ws/
+
