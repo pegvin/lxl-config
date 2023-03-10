@@ -20,6 +20,7 @@ require "plugins.languages.language_objc"
 require "plugins.languages.language_svelte3"
 require "plugins.languages.language_ts"
 require "plugins.languages.language_nanorc"
+require "plugins.languages.language_jsx"
 
 
 
