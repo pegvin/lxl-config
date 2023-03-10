@@ -55,7 +55,7 @@ local previous_scale = SCALE
 local extension_icons = {
 	[".lua"] = { "#51a0cf", "" },
 	[".md"]  = { "#519aba", "" }, -- Markdown
-	[".cpp"] = { "#519aba", "" },
+	[".cpp"] = { "#519aba", "" }, [".hpp"] = { "#519aba", "" },
 	[".c"]   = { "#599eff", "" },
 	[".m"]   = { "#599eff", "" },
 	[".mm"]   = { "#599eff", "" },
