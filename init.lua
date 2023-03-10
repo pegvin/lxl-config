@@ -4,10 +4,14 @@ local config = require "core.config"
 local style = require "core.style"
 local command = require "core.command"
 
------------------------------- Themes ----------------------------------------
+------------------------------ Config ----------------------------------------
+config.fps = 40
+config.transitions = false
+config.indent_size = 4
+config.tab_type = "hard"
 
--- light theme:
-core.reload_module("colors.vscode-dark")
+------------------------------ Themes ----------------------------------------
+core.reload_module("colors.jb-fleet")
 
 --------------------------- Key bindings -------------------------------------
 
